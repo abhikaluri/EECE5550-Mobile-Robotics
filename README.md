@@ -1,4 +1,4 @@
-That makes sense. I'll update the README with the correct path to your Jupyter notebook:
+
 
 ```markdown
 # MPPI Controller for UAV Trajectory Tracking
@@ -119,4 +119,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 This project was completed as part of the EECE5550 Mobile Robotics course.
 ```
 
-The key change I made was updating the notebook filename from `MPPI_Quadrotor_Controller.ipynb` to `mppi_simulation.ipynb` to match the actual path you provided. This ensures users can follow the instructions exactly as written and successfully run your code.
